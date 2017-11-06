@@ -20,7 +20,7 @@ This code has been tested in the following environments
 ## Process
 For this I created 2 solutions:
 
-### Solution 1
+### [Solution 1](https://github.com/kolawolebalogun/shuffle-list/blob/master/solution_that_matches_restriction.py)
 Solution one is an approach that doesnt always return the desired result but adheres to all the restrictions
 
 ```python
@@ -64,7 +64,7 @@ def main():
 ```
 
 
-### Solution 1
+### [Solution 2](https://github.com/kolawolebalogun/shuffle-list/blob/master/solution_that_outputs_expected_result.py)
 Solution one is an approach that doesnt always returns the desired result
 ```python
 def main():
